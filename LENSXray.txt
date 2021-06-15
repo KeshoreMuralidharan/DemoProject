@@ -1,1 +1,2 @@
 LENS Xray is one of the oldest product of BGT
+Configured the username and email.
